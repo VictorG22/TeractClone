@@ -664,9 +664,10 @@ nav i {
     CONTACT
 */
 
+
 .container__contact{
   background-color: rgb(100, 21, 255);
-  margin: 96px 0 182px 0;
+  margin: 96px auto 182px auto;
   padding: 96px 32px;
   border-radius: 4px;
   display: flex;
@@ -683,7 +684,7 @@ nav i {
 .contact__btn--container{
   width: 50%;
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-end;
 }
 
 .contact__btn{
