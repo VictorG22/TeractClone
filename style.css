@@ -1046,7 +1046,11 @@ color: rgb(155, 44, 44);
     font-size: 30px;
     width: 70%;
     margin-bottom: 30px;
-  }  
+  }
+  
+  .contact__btn--container{
+    justify-content: space-around;
+  }
   
 }
 
